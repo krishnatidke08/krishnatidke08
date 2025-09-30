@@ -1,6 +1,7 @@
 Hi there, I'm Krishna! 👋
-Typing SVG
+
 🚀 About Me
+
 Passionate about QA Automation Engineering & Big Data technologies exploring API Testing automation
 
 💻 Currently working on API Automation and Spark
