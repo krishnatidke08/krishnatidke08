@@ -1,6 +1,6 @@
-Hi there, I'm Krishna! 👋
+# Hi there, I'm Krishna! 👋
 
-🚀 About Me
+## 🚀 About Me
 
 Passionate about QA Automation Engineering & Big Data technologies exploring API Testing automation
 
@@ -11,5 +11,3 @@ Passionate about QA Automation Engineering & Big Data technologies exploring API
 📚 Currently learning advanced Spark, data lake architectures and advanced python
 
 💬 Let's talk about Automation Frameworks, API Testing, SDLC, Git, and Debugging
-
-📫 Reach me at:krishnatidke08@gmail.com
